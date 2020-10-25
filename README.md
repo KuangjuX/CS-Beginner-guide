@@ -7,5 +7,5 @@ A simple guide for CS (computer science) beginner
 
 >此指南包括：  
 >
->1. 你需要先了解的一些东西
->2. 
+>1. 你需要先了解的一些东西  
+>...
